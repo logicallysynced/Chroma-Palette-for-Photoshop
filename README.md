@@ -1,10 +1,10 @@
-![Chromatics Logo](http://thejourneynetwork.net/stardewvalley/stardewvalley_logo_sm.png)
+![Chroma Palette Logo](http://thejourneynetwork.net/chromapalette/chromapalette_md.png)
 
-**Lighting Effects for Stardew Valley**
+**Color Palette for Adobe Photoshop**
 
 Chroma for Stardew Valley is a lightweight Windows application which connects Stardew Valley with Razer Chroma devices. You can use this to make your keyboard, mouse, headset, etc. react to events, elements & other in-game functions by creating visual alerts using the devices' countless lighting options.
 
-[Download Latest Version](https://github.com/roxaskeyheart/Chroma-for-Stardew-Valley/releases)
+[Download Latest Version](https://github.com/roxaskeyheart/Chroma-Palette/releases)
 
 
 ##Features
@@ -66,13 +66,13 @@ A: The app can be found in the Windows taskbar by clicking the upwards arrow by 
 **Q: My question isn't listed here or I found a bug.**
 
 
-A: Please open a new help ticket [here](https://github.com/roxaskeyheart/Chroma-for-Stardew-Valley/issues).
+A: Please open a new help ticket [here](https://github.com/roxaskeyheart/Chroma-Palette/issues).
 
 
 **Q: I have an idea for Chroma for Stardew Valley. Will you implement it?**
 
 
-A: Please submit a [feature request](https://github.com/roxaskeyheart/Chroma-for-Stardew-Valley/issues) and I'll see what I can do.
+A: Please submit a [feature request](https://github.com/roxaskeyheart/Chroma-Palette/issues) and I'll see what I can do.
 
 
 
