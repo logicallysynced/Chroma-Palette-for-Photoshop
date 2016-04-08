@@ -2,7 +2,7 @@
 
 **Color Palette for Adobe Photoshop**
 
-Chroma for Stardew Valley is a lightweight Windows application which connects Stardew Valley with Razer Chroma devices. You can use this to make your keyboard, mouse, headset, etc. react to events, elements & other in-game functions by creating visual alerts using the devices' countless lighting options.
+Chroma Palette is a companion app/plugin for Adobe Photoshop which allows you to create, store and recall colors using your devices Numpad or Keypad. By using Chroma Palette you can quickly recall those colors within Adobe Photoshop by simply pressing the assigned button, which also displays the color. Additionally Chroma Palette also allows for highlighting of important Adobe Photoshop hotkeys on your devices for easy access.
 
 [Download Latest Version](https://github.com/roxaskeyheart/Chroma-Palette/releases)
 
@@ -10,15 +10,13 @@ Chroma for Stardew Valley is a lightweight Windows application which connects St
 ##Features
 
 
-* Display HP and Stamina across your keyboard's function keys and the Razer Mamba's strip lighting.
-* HUD effects for your selected item on your hotbar.
-* Interaction effects when farming, foraging, mining, fishing or fighting across BlackWidow Keyboards.
-* Nightly countdown effect across BlackWidow Keyboards between 12AM and 2AM in game.
-* Navigation lighting to highlight important commands on your keyboard. Optional extra key highlights for beginners too!
-* Lighting effects change based on the season in-game. Different seasonal themes in-built and customizable. Optional display this effect on other Razer Chroma devices.
-* Time of day effects on your keyboard's numpad to show the progression from Sunrise to Morning, then to Twilight and into Midnight. Optional display this effect on other Razer Chroma devices.
-* Optional Macro button custom highlighting.
-* All colors and themes are completely customizable so you can make your own themes for the game.
+* Store up to 20 colors across 9 pages (180 Colors total) for use with Adobe Photoshop.
+* Easy page changing by use of NumPlus and NumMinus.
+* Toggle Background/Foreground color palette using NumMultiply button.
+* Learn button to capture color from Adobe Photoshop to any Color palette button.
+* Toggle Extra buttons across 1-9 for additional palettes.
+* Optional Adobe Photoshop hotkey highlighting.
+* Customizable default color themes for app.
 
 
 
@@ -27,23 +25,12 @@ Chroma for Stardew Valley is a lightweight Windows application which connects St
 
 * BlackWidow Chroma
 * BlackWidow TE Chroma
-* DeathAdder Chroma
-* DeathStalker Chroma (Partial)
-* Diamondback (Partial)
-* Firefly
-* Kraken 7.1 Chroma
-* Mamba TE Chroma
 * Orbweaver Chroma
-* Tartarus Chroma
-* Naga Epic Chroma
-* Mamba Chroma
-* Orochi
-* Naga Chroma
-* Overwatch Keyboard
 
 
 ##Prerequisites
 
+* Adobe Photoshop CS5 or Higher (Recommend Creative Cloud 2015)
 * [.Net Framework 4.5 (Full)](https://www.microsoft.com/en-au/download/details.aspx?id=30653)
 * [Visual Studio 2015 C++ Redistributable](https://www.microsoft.com/en-au/download/details.aspx?id=48145)
 * [Razer SDK](http://www.razerzone.com/au-en/synapse) (Automatically installed with Razer Synapse)
@@ -57,10 +44,16 @@ Chroma for Stardew Valley is a lightweight Windows application which connects St
 A: You can find a list of currently supported devices above under Device Compatibility. Currently the app only supports Razer Chroma devices.
 
 
-**Q: I opened the app but can't find the settings to customize the lighting themes.**
+**Q: I opened the app and Adobe Photoshop but nothing is happening.**
 
 
-A: The app can be found in the Windows taskbar by clicking the upwards arrow by the clock in the bottom-right hand corner of the screen. You will see a yellow sun icon which you can right-click to display the options for the app.
+A: You must have a document open within Adobe Photoshop before using the Color palettes or navigation buttons.
+
+
+**Q: While using Color Palette I cannot use the Numpad or Number buttons in other applications.**
+
+
+A: This is a limitation of Color Palette. Please toggle off the "Enable Numbers" option to restore Number buttons to working order in other apps. The Numpad will remain disabled in other applications while Chroma Palette remains running.
 
 
 **Q: My question isn't listed here or I found a bug.**
@@ -85,7 +78,7 @@ A: For sure! Please contact me on Github for more information. Chroma for Starde
 
 ##Known Issues
 
-* Currently no known issues.
+* Beta Release - Probably many unknown bugs. Please open a new help ticket [here](https://github.com/roxaskeyheart/Chroma-Palette/issues) to report bugs.
 
 
 
