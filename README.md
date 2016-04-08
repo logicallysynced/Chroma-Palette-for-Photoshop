@@ -19,6 +19,8 @@ Chroma Palette is a companion app/plugin for Adobe Photoshop which allows you to
 * Customizable default color themes for app.
 
 
+![Chroma Palette Config](http://thejourneynetwork.net/chromapalette/chromapalette_config.png)
+
 
 ##Device Compatibility
 
@@ -53,7 +55,7 @@ A: You must have a document open within Adobe Photoshop before using the Color p
 **Q: While using Color Palette I cannot use the Numpad or Number buttons in other applications.**
 
 
-A: This is a limitation of Color Palette. Please toggle off the "Enable Numbers" option to restore Number buttons to working order in other apps. The Numpad will remain disabled in other applications while Chroma Palette remains running.
+A: This is a limitation of Chroma Palette. Please toggle off the "Enable Numbers" option to restore Number buttons to working order in other apps. The Numpad will remain disabled in other applications while Chroma Palette remains running.
 
 
 **Q: My question isn't listed here or I found a bug.**
