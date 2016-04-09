@@ -81,6 +81,7 @@ A: For sure! Please contact me on Github for more information. Chroma for Starde
 ##Known Issues
 
 * Beta Release - Probably many unknown bugs. Please open a new help ticket [here](https://github.com/roxaskeyheart/Chroma-Palette/issues) to report bugs.
+* Some key flickers on highlighted keys.
 
 
 
