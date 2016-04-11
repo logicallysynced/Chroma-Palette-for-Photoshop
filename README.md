@@ -40,7 +40,7 @@ Chroma Palette is a companion app/plugin for Adobe Photoshop which allows you to
 
 ##FAQ
 
-**Q: How do I find out if my device is compatible with Chromatics?**
+**Q: How do I find out if my device is compatible with Chroma Palette?**
 
 
 A: You can find a list of currently supported devices above under Device Compatibility. Currently the app only supports Razer Chroma devices.
