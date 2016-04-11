@@ -71,7 +71,7 @@ A: Please submit a [feature request](https://github.com/roxaskeyheart/Chroma-Pal
 
 
 
-**Q: I'm a developer too! Can I help you develop Chroma for Stardew Valley?**
+**Q: I'm a developer too! Can I help you develop Chroma Palette?**
 
 
 A: For sure! Please contact me on Github for more information. Chroma for Stardew Valley is built in C#. 
